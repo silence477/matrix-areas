@@ -1,0 +1,10 @@
+D:\marycho\desktop\zxc\GridVIWE1\bin\Debug\GridVIWE1.exe.config
+D:\marycho\desktop\zxc\GridVIWE1\bin\Debug\GridVIWE1.exe
+D:\marycho\desktop\zxc\GridVIWE1\bin\Debug\GridVIWE1.pdb
+D:\marycho\desktop\zxc\GridVIWE1\obj\Debug\GridVIWE1.csproj.AssemblyReference.cache
+D:\marycho\desktop\zxc\GridVIWE1\obj\Debug\GridVIWE1.Form1.resources
+D:\marycho\desktop\zxc\GridVIWE1\obj\Debug\GridVIWE1.Properties.Resources.resources
+D:\marycho\desktop\zxc\GridVIWE1\obj\Debug\GridVIWE1.csproj.GenerateResource.cache
+D:\marycho\desktop\zxc\GridVIWE1\obj\Debug\GridVIWE1.csproj.CoreCompileInputs.cache
+D:\marycho\desktop\zxc\GridVIWE1\obj\Debug\GridVIWE1.exe
+D:\marycho\desktop\zxc\GridVIWE1\obj\Debug\GridVIWE1.pdb
